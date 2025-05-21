@@ -104,6 +104,10 @@ node backend.js
 npm start
 ```
 
+## API ENDPOINTS
+
+![API Endpoints Diagram](api_endpoints.png)
+
 
 ## Testing Accounts
 
